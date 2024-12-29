@@ -1,0 +1,4 @@
+race_id, circuit_id, driver_id, lap_time_dry, lap_time_wet, tire_type
+1, 1, 101, 95.23, 98.65, soft
+2, 1, 102, 94.56, 97.12, medium
+3, 2, 103, 89.12, 92.43, hard
